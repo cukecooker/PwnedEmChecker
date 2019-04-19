@@ -93,7 +93,7 @@ New_face: function [res][
 ]
 Total: [
 View/flags [
-	title "haveibeenpwned by RED"
+	title "haveibeenpwned by @TrionXl"
 	below ;below row
 	;origin 20x20
 	title: h3 ";--have i been pwned?" #286786
