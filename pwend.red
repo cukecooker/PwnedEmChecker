@@ -2,7 +2,7 @@ Red [
 	Title: "RED-Pwned?"
     Purpose: "https://haveibeenpwned.com/API/v2 searched via a RESTful service"
     Author:  [
-        "YU XIAODONG"
+        "TrionXl<YU XIAODONG>" 
 		"Gregg Irwin" {
 			Ported from %json.r by Romano Paolo Tenca, Douglas Crockford, 
 			and Gregg Irwin.
