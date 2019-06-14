@@ -1,6 +1,6 @@
 # PwnedEmChecker
 
-A Redlang practice demo use RESTful service from [haveibeenpwned.com's API:(v2)](https://haveibeenpwned.com/API/v2)
+A Redlang practice demo using RESTful api from [haveibeenpwned.com's API:(v2)](https://haveibeenpwned.com/API/v2)
 
 使用 Red 0.6.3 编译通过
 
